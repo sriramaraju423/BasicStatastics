@@ -1,0 +1,16 @@
+Measure of dispersion or second moment business decision:
+Sample formula of Varience and standarad deviation differs by n-1 when compared to population. 
+Reason: 
+Bookish: Sample has some amount of bias hence we reduce that bias by subtacting by 1 point in denominator.
+Nitin sir: We intuitively select mean when choosing sample from population.
+Expected value of mean & Variance of probability distribution are signma X * p(x); sigma(x-mu)^2*p(x) 
+Bar plot
+Histogram - Frequency distribution plot
+Skwenwss - Tail decides right or left - 3 rd moment business decision
+
+
+
+
+To Check:
+Dollar in excel: It is used to put the cell value constant rather than taking it in series.
+link:https://www.youtube.com/watch?v=WXgfwOUHtMo
